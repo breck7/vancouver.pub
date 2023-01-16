@@ -1,0 +1,6 @@
+importOnly
+description The Vancouver Pub is a public domain newspaper serving the people of Vancouver, BC
+git https://github.com/breck7/vancouver.pub
+viewSourceBaseUrl https://github.com/breck7/vancouver.pub/blob/main
+email tips@vancouver.pub
+baseUrl https://vancouver.pub
