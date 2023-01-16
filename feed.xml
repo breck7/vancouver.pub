@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+ <title>The Vancouver Pub</title>
+ <link>https://vancouver.pub</link>
+ <description>The Vancouver Pub is a public domain newspaper serving the people of Vancouver, BC</description>
+ <lastBuildDate>Mon, 16 Jan 2023 11:40:11 +0000</lastBuildDate>
+ <language>en-us</language>
+ <item>
+  <title>Aloha Vancouver</title>
+  <link>https://vancouver.pubfirstPost.html</link>
+  <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+ </item>
+</channel>
+</rss>
